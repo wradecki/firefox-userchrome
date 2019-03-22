@@ -10,7 +10,7 @@
 #titlebar:active{margin-bottom:0 !important;}
 #titlebar:active #titlebar-content{margin-bottom:var(--tab-min-height) !important;}
 #tabbrowser-tabs .scrollbutton-up,.tabbrowser-tabs .scrollbutton-down,#alltabs-button,.tabbrowser-tab:not([fadein]){display: none;}
-#nav-bar {margin-top: 23px !important}
+#nav-bar {margin-top: var(--tab-min-height) !important}
 #main-window #TabsToolbar {
     margin-left: 0px !important;
 }
