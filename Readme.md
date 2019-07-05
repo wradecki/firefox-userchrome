@@ -1,0 +1,1 @@
+c:\Users\<USER_NAME>\AppData\Roaming\Mozilla\Firefox\Profiles\<PROFILE>\chrome\
